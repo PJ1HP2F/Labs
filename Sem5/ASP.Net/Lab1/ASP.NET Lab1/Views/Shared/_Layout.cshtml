@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap-icons/font/bootstrap-icons.min.css" />
+</head>
+<body>
+	<header>
+		<div class="container">
+			<nav class="navbar bg-dark navbar-expand-md border-bottom border-body" data-bs-theme="dark">
+				<a class="navbar-brand" href="#">Labs</a>
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="#">Lab1</a>
+					<a class="nav-item nav-link" href="#">Каталог</a>
+					<a class="nav-item nav-link" href="#">Администрирование</a>
+				</div>
+
+				<a href="#" class="navbar-text ms-auto">
+					00.0 руб <i class="bi bi-cart"></i> (0)
+				</a>
+
+				<div class="dropdown ms-4 nav-color">
+					<button class="btn btn-secondary dropdown-toggle"
+							type="button" id="dropdownMenuButton"
+							data-bs-toggle="dropdown"
+							aria-expanded="false"
+							aria-controls="dropdownMenu">
+						User@gmail.com
+						<img src="images/default-profile-picture.png" width="30"
+							 alt="User" class="rounded nav-color" />
+					</button>
+					<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+						<li>
+							<span class="dropdown-item-text">
+								<img src="images/default-profile-picture.png"
+									 width="50" alt="User" class="rounded" />
+								user@gmmail.com
+							</span>
+						</li>
+						<li><hr class="dropdown-divider"></li>
+						<li>
+							<form id="logoutForm" class="form-inline">
+								<button id="logout" type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+							</form>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<main class="container">
+		@RenderBody()
+	</main>
+	<footer>
+		<div class="container">
+			<div class="navbar bg-dark navbar-expand-md border-bottom border-body"
+				 data-bs-theme="dark">
+				<div class="navbar-nav ms-auto">
+					<a class="nav-item nav-link" href="http://www.facebook.com">
+						<i class="bi bi-facebook" style="font-size: 2rem"></i>
+					</a>
+					<a class="nav-item nav-link" href="http://www.twitter.com">
+						<i class="bi bi-twitter" style="font-size: 2rem"></i>
+					</a>
+					<a class="nav-iten nav-link" href="http://telegram.org">
+						<i class="bi bi-telegram" style="font-size: 2rem"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	<Scripts></Scripts>
+</body>
+</html>

@@ -1,0 +1,35 @@
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\appsettings.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\libman.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.staticwebassets.runtime.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.staticwebassets.endpoints.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.exe
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.deps.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.runtimeconfig.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.dll
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\bin\Debug\net8.0\ASP.NET Lab1.pdb
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.RazorAssemblyInfo.cache
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.RazorAssemblyInfo.cs
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Lab1.styles.css
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET Lab1.bundle.scp.css
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Lab1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Lab1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Lab1.props
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Lab1.props
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Lab1.props
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.dll
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\refint\ASP.NET Lab1.dll
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.pdb
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ASP.NET Lab1.genruntimeconfig.cache
+C:\Users\Skynet\source\repos\ASP.NET Lab1\ASP.NET Lab1\obj\Debug\net8.0\ref\ASP.NET Lab1.dll
