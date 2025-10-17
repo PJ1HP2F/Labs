@@ -1,0 +1,108 @@
+﻿@model ListModel<Movie>
+
+@{
+    var request = ViewContext.HttpContext.Request;
+    var returnUrl = request.Path + request.QueryString.ToUriComponent();
+
+    List<Category> categories = ViewBag.Categories;
+
+    string? category = request.Query["category"].ToString();
+}
+
+<h1>
+    Index
+</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="col-2 border-2">
+    <ul class="nav">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               data-bs-toggle="dropdown"
+               href="#" role="button"
+               aria-expanded="false">@ViewData["CurrentCategory"]</a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a class="dropdown-item"
+                       asp-controller="Product"
+                       asp-route-category="@null">
+                        All items
+                    </a>
+                </li>
+                @foreach (var c in categories)
+                {
+                    <li>
+                        <a class="dropdown-item"
+                           asp-controller="Product"
+                           asp-route-category="@c.NormalizedName">
+                            @c.Name
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div class="row" id="itemContainer">
+    @foreach (var item in Model.Items)
+    {
+        <div class="card-group col-sm-6 col-md-4">
+            <div class="card h-100">
+                <div class="card-header">
+                    <img src="@item.Image" class="card-img-top" alt="...">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text"><small class="text-body-secondary">@item.Price$</small></p>
+                </div>
+                <div class="card-footer text-center">
+                    <a asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id" asp-route-returnurl="@returnUrl"
+                       class="btn btn-primary">
+                        Add to cart <i class="bi bi-cart"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<nav aria-label="Page Navigation">
+    <ul class="pagination justify-content-center">
+        <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+            <a class="page-link"
+               asp-controller="Product"
+               asp-action="Index"
+               asp-route-category="@category"
+               asp-route-pageNumber="@(Model.CurrentPage - 1)">
+                Previous
+            </a>
+        </li>
+        @for (int i = Model.CurrentPage - 2 > 0 ? Model.CurrentPage - 2 : 1;
+        i <= (Model.CurrentPage + 2 <= Model.TotalPages ? Model.CurrentPage + 2 : Model.TotalPages); ++i)
+        {
+            <li class="page-item @(Model.CurrentPage == i ? "active" : "")">
+                <a class="page-link"
+                   asp-controller="Product"
+                   asp-action="Index"
+                   asp-route-category="@category"
+                   asp-route-pageNumber="@i">
+                    @i
+                </a>
+            </li>
+        }
+        <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+            <a class="page-link"
+               asp-controller="Product"
+               asp-action="Index"
+               asp-route-category="@category"
+               asp-route-pageNumber="@(Model.CurrentPage + 1)">
+                Next
+            </a>
+        </li>
+    </ul>
+</nav>

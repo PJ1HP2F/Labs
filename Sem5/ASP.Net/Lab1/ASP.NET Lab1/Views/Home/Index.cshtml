@@ -12,20 +12,25 @@
 		<link rel="stylesheet" href="~/lib/bootstrap-icons/font/bootstrap-icons.min.css" />
 	</head>
 	<body>
-		<h1>Лабораторная работа 1</h1>
+		<h1>@ViewData["LabWork"]</h1>
+
 		<h3><b>Список</b></h3>
 		<ol type="A">
-			<li>
-				Элемент 1
-			</li>
-			<li>
-				Элемент 2
-			</li>
+			@for (int i = 1; i <= 5; i++)
+			{
+				<li>Элемент @i</li>
+			}
 		</ol>
 
 		<form method="post">
 			<h3><b>Форма</b></h3>
 			<p>
+				<select class="form-control from-select mb-3" name="selectionDemo"
+						asp-items="@ViewBag.Items">
+				</select>
+
+				<p> </p>
+
 				<div class="form-check">
 					<input class="form-check-info" type="checkbox" name="cb1" value="cb1" />
 					<label class="form-check-label" for="cb1">Чек-бокс-1</label>

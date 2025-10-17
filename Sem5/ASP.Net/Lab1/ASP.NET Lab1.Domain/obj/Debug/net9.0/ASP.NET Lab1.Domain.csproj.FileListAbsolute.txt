@@ -1,0 +1,15 @@
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\bin\Debug\net9.0\ASP.NET Lab1.Domain.deps.json
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\bin\Debug\net9.0\ASP.NET Lab1.Domain.runtimeconfig.json
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\bin\Debug\net9.0\ASP.NET Lab1.Domain.dll
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\bin\Debug\net9.0\ASP.NET Lab1.Domain.pdb
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.sourcelink.json
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.dll
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\refint\ASP.NET Lab1.Domain.dll
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.pdb
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ASP.NET Lab1.Domain.genruntimeconfig.cache
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1.Domain\obj\Debug\net9.0\ref\ASP.NET Lab1.Domain.dll

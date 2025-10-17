@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ASP.NET Lab1\\ASP.NET Lab1.UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ASP.NET Lab1.API\\ASP.NET Lab1.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

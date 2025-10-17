@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.NET Lab1.API\\wwwroot\\Images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\Images\\default-profile-picture.png"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.NET Lab1.API\\wwwroot\\Images\\gone.jpg",
+      "PackagePath": "staticwebassets\\Images\\gone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.NET Lab1.API\\wwwroot\\Images\\inception.jpg",
+      "PackagePath": "staticwebassets\\Images\\inception.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.NET Lab1.API\\wwwroot\\Images\\luntik.jpg",
+      "PackagePath": "staticwebassets\\Images\\luntik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.NET Lab1.API\\wwwroot\\Images\\seven.jpg",
+      "PackagePath": "staticwebassets\\Images\\seven.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ASP.NET Lab1.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ASP.NET Lab1.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ASP.NET Lab1.API.props",
+      "PackagePath": "build\\ASP.NET Lab1.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET Lab1.API.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET Lab1.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET Lab1.API.props",
+      "PackagePath": "buildTransitive\\ASP.NET Lab1.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

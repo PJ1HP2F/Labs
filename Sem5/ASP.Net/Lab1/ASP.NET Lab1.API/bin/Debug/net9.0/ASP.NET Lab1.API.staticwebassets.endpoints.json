@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Images/default-profile-picture.66vzrqmis7.png",
+      "AssetFile": "Images/default-profile-picture.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvRZFislhrDecXSMx7BXDLQkfgOH+59cQiISgk6iX90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 19:59:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66vzrqmis7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvRZFislhrDecXSMx7BXDLQkfgOH+59cQiISgk6iX90="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/default-profile-picture.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/default-profile-picture.png",
+      "AssetFile": "Images/default-profile-picture.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvRZFislhrDecXSMx7BXDLQkfgOH+59cQiISgk6iX90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 19:59:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvRZFislhrDecXSMx7BXDLQkfgOH+59cQiISgk6iX90="
+        }
+      ]
+    },
+    {
+      "Route": "Images/gone.4q6ze1aq5t.jpg",
+      "AssetFile": "Images/gone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 15:16:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4q6ze1aq5t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/gone.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/gone.jpg",
+      "AssetFile": "Images/gone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 15:16:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/inception.jpg",
+      "AssetFile": "Images/inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/inception.kq93xf49i4.jpg",
+      "AssetFile": "Images/inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kq93xf49i4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/inception.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/luntik.jpg",
+      "AssetFile": "Images/luntik.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/luntik.rti43fjkc5.jpg",
+      "AssetFile": "Images/luntik.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rti43fjkc5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/luntik.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/seven.jpg",
+      "AssetFile": "Images/seven.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:22:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/seven.ktibomdash.jpg",
+      "AssetFile": "Images/seven.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:22:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktibomdash"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/seven.jpg"
+        }
+      ]
+    }
+  ]
+}

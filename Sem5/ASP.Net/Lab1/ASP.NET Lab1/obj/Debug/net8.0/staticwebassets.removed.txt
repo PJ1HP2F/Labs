@@ -1,0 +1,5 @@
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1\wwwroot\images\default-profile-picture.png
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1\wwwroot\images\gone.jpg
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1\wwwroot\images\inception.jpg
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1\wwwroot\images\luntik.jpg
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.NET Lab1\wwwroot\images\seven.jpg
