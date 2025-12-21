@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ASP.BlazorWASM.styles.css",
+      "PackagePath": "staticwebassets\\ASP.BlazorWASM.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.BlazorWASM\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ASP.BlazorWASM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ASP.BlazorWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ASP.BlazorWASM.props",
+      "PackagePath": "build\\ASP.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.BlazorWASM.props",
+      "PackagePath": "buildMultiTargeting\\ASP.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ASP.BlazorWASM.props",
+      "PackagePath": "buildTransitive\\ASP.BlazorWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

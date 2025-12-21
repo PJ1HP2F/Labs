@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ASP.API\\ASP.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ASP.BlazorWASM\\ASP.BlazorWASM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ASP.UI\\ASP.UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ASP.Blazor.SSR\\ASP.Blazor.SSR.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+﻿@model Cart
+
+@{
+    ViewData["Title"] = "Your Cart";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model.CartItems.Any())
+{
+    <div style="margin: 5px;">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Quantity</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CartItems.Values)
+                {
+                    <tr>
+                        <td>
+                            <img src="@item.Movie.Image" alt="@item.Movie.Name" style="height: 100px;">
+                        </td>
+                        <td>@item.Movie.Name</td>
+                        <td>@item.Movie.Description</td>
+                        <td>@item.Quantity</td>
+                        <td>
+                            <a asp-controller="Cart" asp-action="Remove" asp-route-id="@item.Movie.Id"
+                               asp-route-returnurl="@Url.Action("Index", "Cart")" class="btn btn-danger">
+                                Remove
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="d-flex justify-content-between align-items-center mt-4" style="margin: 25px;">
+            <p class="h5"><strong>Total product count:</strong> @Model.Count</p>
+            <a asp-controller="Cart" asp-action="Clear" asp-route-returnurl="@Url.Action("Index", "Cart")"
+               class="btn btn-outline-danger btn-lg">
+                Clear Cart
+                <i class="fa-solid fa-trash"></i>
+            </a>
+        </div>
+    </div>
+}
+else
+{
+    <p>Cart is empty</p>
+}

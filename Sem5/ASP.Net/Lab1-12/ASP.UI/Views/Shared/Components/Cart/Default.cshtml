@@ -1,0 +1,12 @@
+﻿@model Cart
+
+@{
+	var totalCount = Model?.Count;
+	var totalPrice = Model?.TotalPrice;
+}
+
+<a class="navbar-text ms-auto"
+   asp-controller="Cart"
+   asp-action="Index">
+	@totalPrice $ <i class="bi bi-cart"></i> (@totalCount)
+</a>

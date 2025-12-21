@@ -1,0 +1,7 @@
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.Blazor.SSR\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.Blazor.SSR\wwwroot\app.css
+C:\Users\Skynet\source\repos\Labs\Sem5\ASP.Net\Lab1\ASP.Blazor.SSR\wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png

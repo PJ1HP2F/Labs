@@ -1,0 +1,32 @@
+﻿@page "/catalog"
+@using ASP.BlazorWASM.Services
+@using Microsoft.AspNetCore.Authorization
+@using ASP.Domain.Entities
+@using ASP.BlazorWASM.Components
+
+@attribute [Authorize]
+
+<PageTitle>Catalog</PageTitle>
+
+<h1>Catalog</h1>
+
+<CategorySelector />
+<ItemList ItemSelected="OnItemSelect"/>
+<Pager/> 
+<ItemDetails SelectedItem="SelectedItem"/>
+
+@code {
+	[Inject]
+	required public IDataService DataService { get; set; }
+	Movie? SelectedItem { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		await DataService.GetProductListAsync();
+	}
+
+	void OnItemSelect(int id)
+	{
+		SelectedItem = DataService.Items.Items.FirstOrDefault(i => i.Id == id);
+	}
+}

@@ -1,0 +1,50 @@
+﻿@namespace ASP.BlazorWASM.Components
+@using ASP.BlazorWASM.Services
+@using ASP.Domain.Entities
+
+@inject IDataService DataService
+
+<div class="dropdown">
+	<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownCategoryButton" data-bs-toggle="dropdown" aria-expanded="false">
+		@if (DataService.SelectedCategory != null)
+		{
+			@DataService.SelectedCategory.Name
+		}
+		else
+		{
+			<span>All</span>
+		}
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="dropdownCategoryButton">
+		<li>
+			<button class="dropdown-item" @onclick="() => SelectCategory(null)">
+				All
+			</button>
+		</li>
+
+		@foreach (var category in DataService.Categories)
+		{
+			<li>
+				<button class="dropdown-item" @onclick="() => SelectCategory(category)">
+					@category.Name
+				</button>
+			</li>
+		}
+	</ul>
+</div>
+
+@code {
+	protected override async Task OnInitializedAsync()
+	{
+		DataService.SelectedCategory = null;
+		await DataService.GetCategoryListAsync();
+		await DataService.GetProductListAsync();
+	}
+
+	private async Task SelectCategory(Category? category)
+	{
+		DataService.SelectedCategory = category;
+		DataService.CurrentPage = 1;
+		await DataService.GetProductListAsync();
+	}
+}

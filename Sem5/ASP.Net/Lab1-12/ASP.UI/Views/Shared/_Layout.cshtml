@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap-icons/font/bootstrap-icons.min.css" />
+</head>
+<body>
+	<header>
+		<div class="container">
+			<nav class="navbar bg-dark navbar-expand-md border-bottom border-body" data-bs-theme="dark">
+				<partial name="_Menu"/>
+
+				<partial name="_UserInfo"/>
+			</nav>
+		</div>
+	</header>
+
+	<main class="container">
+		@RenderBody()
+	</main>
+
+	<footer>
+		<div class="container">
+			<div class="navbar bg-dark navbar-expand-md border-bottom border-body"
+				 data-bs-theme="dark">
+				<div class="navbar-nav ms-auto">
+					<a class="nav-item nav-link" href="http://www.facebook.com">
+						<i class="bi bi-facebook" style="font-size: 2rem"></i>
+					</a>
+					<a class="nav-item nav-link" href="http://www.twitter.com">
+						<i class="bi bi-twitter" style="font-size: 2rem"></i>
+					</a>
+					<a class="nav-iten nav-link" href="http://telegram.org">
+						<i class="bi bi-telegram" style="font-size: 2rem"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false);
+</body>
+</html>

@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "3Xw8D06gdESy/XmqsDSyCWzNkvY5O5SLJOekOrAYkXM=",
+  "Source": "ASP.API",
+  "BasePath": "_content/ASP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.API\\wwwroot",
+      "Source": "ASP.API",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\00d16f55-4b16-4eb7-a821-52a794554f77.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/00d16f55-4b16-4eb7-a821-52a794554f77#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tswnsp1bps",
+      "Integrity": "zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\00d16f55-4b16-4eb7-a821-52a794554f77.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/3c9dac40-93e7-47ef-b732-1c461cdcbee9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tswnsp1bps",
+      "Integrity": "zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\a908290a-3793-4831-a3ba-d818de8f2b82.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/a908290a-3793-4831-a3ba-d818de8f2b82#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tswnsp1bps",
+      "Integrity": "zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\a908290a-3793-4831-a3ba-d818de8f2b82.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/f2bf8993-7684-4ddd-9821-e937d332eb7e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tswnsp1bps",
+      "Integrity": "zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\gone.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/gone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4q6ze1aq5t",
+      "Integrity": "NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\gone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\inception.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/inception#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kq93xf49i4",
+      "Integrity": "9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\inception.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\luntik.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/luntik#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rti43fjkc5",
+      "Integrity": "sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\luntik.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\seven.jpg",
+      "SourceId": "ASP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\",
+      "BasePath": "_content/ASP.API",
+      "RelativePath": "Images/seven#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktibomdash",
+      "Integrity": "CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\seven.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/00d16f55-4b16-4eb7-a821-52a794554f77.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\00d16f55-4b16-4eb7-a821-52a794554f77.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 11:05:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/00d16f55-4b16-4eb7-a821-52a794554f77.tswnsp1bps.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\00d16f55-4b16-4eb7-a821-52a794554f77.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 11:05:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tswnsp1bps"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/00d16f55-4b16-4eb7-a821-52a794554f77.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:43:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/3c9dac40-93e7-47ef-b732-1c461cdcbee9.tswnsp1bps.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:43:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tswnsp1bps"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/3c9dac40-93e7-47ef-b732-1c461cdcbee9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a908290a-3793-4831-a3ba-d818de8f2b82.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\a908290a-3793-4831-a3ba-d818de8f2b82.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:23:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a908290a-3793-4831-a3ba-d818de8f2b82.tswnsp1bps.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\a908290a-3793-4831-a3ba-d818de8f2b82.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:23:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tswnsp1bps"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/a908290a-3793-4831-a3ba-d818de8f2b82.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:49:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f2bf8993-7684-4ddd-9821-e937d332eb7e.tswnsp1bps.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Dec 2025 10:49:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tswnsp1bps"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f2bf8993-7684-4ddd-9821-e937d332eb7e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXU9bKzqRwcdSiMtJKGDnuYX07SQ7gTdWo34yQYJSDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/gone.4q6ze1aq5t.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\gone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 15:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4q6ze1aq5t"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/gone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/gone.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\gone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 15:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGETS1KY30zNx3vItwwtCuCh/zt0EszIg/Y1mhmlcI8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/inception.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/inception.kq93xf49i4.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\inception.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kq93xf49i4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/inception.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M4hThpPjinmQ0IYxxq8vU4ZGo7EQuVNV+/ETgk5SH0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/luntik.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\luntik.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/luntik.rti43fjkc5.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\luntik.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rti43fjkc5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/luntik.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sRjVbW+79dz7KaLxlSC/2cMTBGVJVqIsRtyJR3TewNE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/seven.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\seven.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/seven.ktibomdash.jpg",
+      "AssetFile": "C:\\Users\\Skynet\\source\\repos\\Labs\\Sem5\\ASP.Net\\Lab1\\ASP.API\\wwwroot\\Images\\seven.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 12:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktibomdash"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/seven.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CLRr1BWw5lUJ5XLQZp/7AEAiRQXy5MpMcz6/g37Rv7k="
+        }
+      ]
+    }
+  ]
+}

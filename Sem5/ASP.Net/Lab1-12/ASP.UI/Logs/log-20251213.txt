@@ -1,0 +1,2 @@
+ []  ---> request /Account/Registe returns 404
+2025-12-13 00:43:03.020 +03:00 [INF]  ---> request /Account/Registe returns 404

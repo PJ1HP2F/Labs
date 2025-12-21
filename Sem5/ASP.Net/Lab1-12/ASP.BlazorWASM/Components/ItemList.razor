@@ -1,0 +1,63 @@
+﻿@namespace ASP.BlazorWASM.Components
+@using ASP.BlazorWASM.Services
+@using ASP.Domain.Entities
+
+@inject IDataService DataService
+
+@if (!DataService.IsSuccessful)
+{
+	<p>Error: @DataService.ErrorMessage</p>
+}
+else if (DataService.Items.Items.Count == 0)
+{
+	<p>No Items found</p>
+}
+else
+{
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			@foreach (var item in DataService.Items.Items)
+			{
+				<tr>
+					<td>@item.Name</td>
+					<td>@item.Description</td>
+					<td>
+						<button class="btn btn-primary" @onclick="() => ItemSelected.InvokeAsync(item.Id)">
+							Подробнее
+						</button>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+
+@implements IDisposable
+
+@code {
+	[Parameter]
+	public EventCallback<int> ItemSelected { get; set; }
+	public Action? Deselect;
+
+	protected override void OnInitialized()
+	{
+		Deselect = async () => { await ItemSelected.InvokeAsync(0); };
+		DataService.DataLoaded += StateHasChanged;
+		DataService.DataLoaded += Deselect;
+		DataService.GetProductListAsync();
+	}
+
+	public void Dispose()
+	{
+		DataService.DataLoaded -= StateHasChanged;
+		DataService.DataLoaded -= Deselect;
+	}
+}
