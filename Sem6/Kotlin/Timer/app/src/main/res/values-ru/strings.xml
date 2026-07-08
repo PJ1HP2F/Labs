@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ИнтервалТаймер</string>
+
+    <string name="sequences">Последовательности</string>
+    <string name="settings">Настройки</string>
+    <string name="timer">Таймер</string>
+    <string name="edit_sequence">Редактировать</string>
+
+    <string name="no_sequences">Нет последовательностей. Нажмите + для создания.</string>
+    <string name="add_sequence">Добавить</string>
+    <string name="phases_count">%d фаз</string>
+    <string name="start">Старт</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="deleted">Удалено</string>
+
+    <string name="sequence_name">Название последовательности</string>
+    <string name="pick_color">Выбрать цвет</string>
+    <string name="select">Выбрать</string>
+    <string name="cancel">Отмена</string>
+    <string name="phase_durations">Длительность фаз (секунды)</string>
+    <string name="phase_warmup_seconds">Разминка (сек)</string>
+    <string name="phase_work_seconds">Работа (сек)</string>
+    <string name="phase_rest_seconds">Отдых (сек)</string>
+    <string name="phase_cooldown_seconds">Заминка (сек)</string>
+    <string name="repetitions_label">Повторения</string>
+    <string name="work_repetitions">Повторений работы</string>
+    <string name="rest_between_sets">Отдых между сетами (сек)</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено!</string>
+    <string name="name_required">Название обязательно</string>
+
+    <string name="phase_warmup">Разминка</string>
+    <string name="phase_work">Работа</string>
+    <string name="phase_rest">Отдых</string>
+    <string name="phase_cooldown">Заминка</string>
+
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="stop_timer">Остановить и выйти</string>
+    <string name="previous">Назад</string>
+    <string name="next">Вперёд</string>
+    <string name="upcoming_phases">Предстоящие фазы</string>
+    <string name="done">Готово!</string>
+    <string name="finished">Последовательность завершена</string>
+
+    <string name="appearance">Внешний вид</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="dark_theme_summary">Включить тёмный режим</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="language">Язык</string>
+    <string name="data">Данные</string>
+    <string name="clear_data">Очистить данные</string>
+    <string name="clear_data_summary">Удалить все сохранённые последовательности</string>
+    <string name="data_cleared">Все данные удалены</string>
+</resources>

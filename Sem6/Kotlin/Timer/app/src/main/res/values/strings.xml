@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntervalTimer</string>
+
+    <!-- Navigation -->
+    <string name="sequences">Sequences</string>
+    <string name="settings">Settings</string>
+    <string name="timer">Timer</string>
+    <string name="edit_sequence">Edit Sequence</string>
+
+    <!-- List -->
+    <string name="no_sequences">No sequences yet. Tap + to create one.</string>
+    <string name="add_sequence">Add Sequence</string>
+    <string name="phases_count">%d phases</string>
+    <string name="start">Start</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Deleted</string>
+
+    <!-- Edit -->
+    <string name="sequence_name">Sequence Name</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="phase_durations">Phase Durations (seconds)</string>
+    <string name="phase_warmup_seconds">Warmup (sec)</string>
+    <string name="phase_work_seconds">Work (sec)</string>
+    <string name="phase_rest_seconds">Rest (sec)</string>
+    <string name="phase_cooldown_seconds">Cooldown (sec)</string>
+    <string name="repetitions_label">Repetitions</string>
+    <string name="work_repetitions">Work Repetitions</string>
+    <string name="rest_between_sets">Rest Between Sets (sec)</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved!</string>
+    <string name="name_required">Name is required</string>
+
+    <!-- Phases -->
+    <string name="phase_warmup">Warmup</string>
+    <string name="phase_work">Work</string>
+    <string name="phase_rest">Rest</string>
+    <string name="phase_cooldown">Cooldown</string>
+
+    <!-- Timer -->
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop_timer">Stop &amp; Exit</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="upcoming_phases">Upcoming Phases</string>
+    <string name="done">Done!</string>
+    <string name="finished">Sequence Complete</string>
+
+    <!-- Settings -->
+    <string name="appearance">Appearance</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="dark_theme_summary">Enable dark mode</string>
+    <string name="font_size">Font Size</string>
+    <string name="language">Language</string>
+    <string name="data">Data</string>
+    <string name="clear_data">Clear All Data</string>
+    <string name="clear_data_summary">Delete all saved sequences</string>
+    <string name="data_cleared">All data cleared</string>
+</resources>

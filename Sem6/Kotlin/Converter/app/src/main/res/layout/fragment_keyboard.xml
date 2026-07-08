@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="2dp">
+
+        <Button android:id="@+id/btn_7" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="7" />
+        <Button android:id="@+id/btn_8" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="8" />
+        <Button android:id="@+id/btn_9" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="9" />
+        <Button android:id="@+id/btn_clear" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="C" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="2dp">
+
+        <Button android:id="@+id/btn_4" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="4" />
+        <Button android:id="@+id/btn_5" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="5" />
+        <Button android:id="@+id/btn_6" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="6" />
+        <Button android:id="@+id/btn_delete" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="⌫" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="2dp">
+
+        <Button android:id="@+id/btn_1" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="1" />
+        <Button android:id="@+id/btn_2" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="2" />
+        <Button android:id="@+id/btn_3" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="3" />
+        <Button android:id="@+id/btn_convert" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="=" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="2dp">
+
+        <Button android:id="@+id/btn_0" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="2" android:text="0" />
+        <Button android:id="@+id/btn_dot" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:text="." />
+        <Space android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" />
+    </LinearLayout>
+</LinearLayout>
