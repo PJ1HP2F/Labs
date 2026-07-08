@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038906215174",
+    "project_id": "seabattle-1ecf8",
+    "storage_bucket": "seabattle-1ecf8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038906215174:android:bfc944e7f5ab1c62e7ac87",
+        "android_client_info": {
+          "package_name": "com.example.seabattle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RDi1Y6qi1FRMCLfIeiAjTNCwahDHCm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

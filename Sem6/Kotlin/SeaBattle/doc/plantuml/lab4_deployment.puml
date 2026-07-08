@@ -1,0 +1,24 @@
+@startuml
+skinparam shadowing false
+skinparam defaultTextAlignment center
+
+node "Устройство игрока 1" as HostDevice {
+  artifact "SeaBattle Client" as HostApp
+}
+
+node "Устройство игрока 2" as GuestDevice {
+  artifact "SeaBattle Client" as GuestApp
+}
+
+cloud "Интернет" as Internet
+
+cloud "Firebase" as Firebase {
+  database "Firebase Authentication" as FA
+  database "Cloud Firestore" as FS
+}
+
+HostApp -down-> Internet
+GuestApp -down-> Internet
+Internet -down-> Firebase : API calls
+
+@enduml
